@@ -192,3 +192,8 @@ Here's the ERD created for this project.
   <img src="https://github.com/user-attachments/assets/51748392-8292-4415-8a0b-d41bf2b989c8" alt="11" />
 </p>
 
+
+## CONCLUSION
+This project showcases my ability to work with complex datasets and extract meaningful insights using SQL. By analyzing key dimensions such as profitability, studio performance, ratings, and talent, I was able to demonstrate how structured data analysis can support decision-making in a data-rich environment like the film industry.
+
+Ultimately, this project exemplifies my skills in data extraction, relational database management, performing basic to advance SQL queries, and analytical thinking.

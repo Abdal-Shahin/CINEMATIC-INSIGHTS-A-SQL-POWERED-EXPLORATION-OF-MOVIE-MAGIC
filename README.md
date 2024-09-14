@@ -18,28 +18,60 @@ The project focuses on understanding the following aspects:
 ## SCHEMA AND ENTITY RELATIONSHIP DIAGRAM (ERD)
 
 Here's the ERD created for this project.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7b5e184b-f5f5-4383-b2c2-e8e47f729b18" alt="Model">
+</p>
+
 
 ## INSIGHTS
 
 ### INDUSTRY INSIGHTS
 **1**. Industry-wise total movies
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f38d8544-b6de-4fcd-9308-d166aa913c6f" alt="1" />
+</p>
 
 **2**. Print all distinct movie studios in the Bollywood industry
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a91fa1a9-6b30-472b-aa95-b6705f707a40" alt="5" />
+</p>
 
 **3**. Select all movies whose release year is 2018, 2019, or 2022
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae68c9fb-19d3-49cd-a474-9f4db77e0aa7" alt="8" />
+</p>
 
 **4**. Print all the years where more than 2 movies were released
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5511ccb0-47cb-42cf-ac7a-1828c1d0f337" alt="16" />
+</p>
+
 
 ### MOVIE STUDIOS AND PRODUCTION
 **1**. Print all titles and release year for all Marvel Studios movies
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04884a00-b40f-4784-a689-2640b2ebc620" alt="2" />
+</p>
 
 **2**. Print all movies where we don't know the value of the studio
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7c4ccdc-7aa3-4fda-8d9b-8ab1ad6853b7" alt="6" />
+</p>
 
 **3**. Count the number of movies released by a given production studio
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f21587f6-acc6-4ae5-8f62-720066058a73" alt="14" />
+</p>
 
 **4**. Find the profit of all Bollywood movies and sort them by profit amount (in millions)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64aaa710-c1e7-4cf7-851e-1c731b9f29e3" alt="22" />
+</p>
 
 **5**. Print the min, max, and avg rating of Marvel Studios movies
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/163365e2-da36-433b-872a-f42cdbb274fd" alt="13" />
+</p>
 
 ### FINANCIAL PERFORMANCE
 **1**. Print profit for every movie

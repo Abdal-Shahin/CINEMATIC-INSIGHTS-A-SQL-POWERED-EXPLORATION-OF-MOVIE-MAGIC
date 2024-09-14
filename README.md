@@ -1,5 +1,7 @@
 # CINEMATIC INSIGHTS: A SQL-POWERED EXPLORATION OF MOVIE MAGIC 
 This project focuses on extracting and analyzing key data from a comprehensive movie dataset using SQL, aiming to provide valuable insights into the film industry's performance across various dimensions such as production, financials, and talent. 
+![columbus-1936633_1280](https://github.com/user-attachments/assets/571f12bc-0f59-4558-82b4-b89389f14f67)
+
 
 ## PROBLEM STATEMENT
 

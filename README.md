@@ -98,7 +98,7 @@ Here's the ERD created for this project.
   <img src="https://github.com/user-attachments/assets/bfe579b5-f1f0-4bfe-a911-4e60625fc71f" alt="21" />
 </p>
 
-**5**. Movies that produced 500% profit and their rating was less than average rating for all movies
+**5**. Movies that produced more than 500% profit and their rating was less than average rating for all movies
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d54e6407-cbce-4dc2-8463-7e124b3a5f6a" alt="31" />
 </p>

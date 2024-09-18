@@ -193,7 +193,15 @@ Here's the ERD created for this project.
 </p>
 
 
-## CONCLUSION
-This project showcases my ability to work with complex datasets and extract meaningful insights using SQL. By analyzing key dimensions such as profitability, studio performance, ratings, and talent, I was able to demonstrate how structured data analysis can support decision-making in a data-rich environment like the film industry.
+## KEY ACHIEVEMENTS
+- **Executed comprehensive SQL queries** to extract key industry insights, enabling data-driven decision-making for production studios.
 
-Ultimately, this project exemplifies my skills in data extraction, relational database management, performing basic to advance SQL queries, and analytical thinking.
+- Performed **advanced financial calculations**, retrieving profit, revenue (in INR and millions), and profitability for Bollywood movies.
+
+- Developed a **comprehensive Entity Relationship Diagram (ERD)** encompassing **5 tables**, visualizing complex data relationships and enhancing database design for improved data integrity and query efficiency.
+
+- **Designed actor profiles**, incorporating age calculations, movie participations, and roles in films, **enhancing talent management** and casting decisions through SQL-driven analytics.
+
+- Generated detailed **studio performance reports** by identifying distinct Bollywood movie studios and analyzing movies without defined studio values, uncovering critical industry gaps and opportunities.
+
+- Led the creation of studio-based performance reports, including **highest, lowest, and average** IMDb ratings for movies.
